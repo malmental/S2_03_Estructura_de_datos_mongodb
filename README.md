@@ -1,11 +1,11 @@
 # Sprint 2
   **Descripción**: 
   
-  Repositorio creado para Tasca 03 MongoDB estructura de datos
-  Se presenta diseño
+  Repositorio creado para el diseño de la tasca 03 
   
   ## 🛠 Tecnologias  
   - *.md
   
   ## 🚀 Instalación  
   1. Clonar el repositori: `git clone ...`  
+  2. Abrir los ficheros *.md
