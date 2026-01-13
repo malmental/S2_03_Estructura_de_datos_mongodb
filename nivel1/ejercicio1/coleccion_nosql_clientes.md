@@ -1,3 +1,5 @@
+Diseño de formato JSON NoSQL para MongoDB
+
 {
     _id: "cliente_01",
     nombre: "Nombre de Cliente",

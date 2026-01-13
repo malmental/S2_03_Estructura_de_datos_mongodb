@@ -1,3 +1,5 @@
+Diseño de formato JSON NoSQL para MongoDB
+
 {
     _id: "gafa_001",
     marca: "Marca Gafa",
