@@ -7,7 +7,8 @@ Entidad Gafa:
 Entidad Proveedor:
     .- id_proveedor PK
     .- nombre
-    .- direccion (o algun otro dato de contacto)
+    .- direccion 
+    .- (o algun otro dato de contacto)
 
 Entidad Suministro
     .- id_suministro PK
@@ -18,7 +19,7 @@ Entidad Suministro
 Entidad Cliente
     .- id_cliente
     .- nombre
-    .- ...datos
+    .- ...otros datos
 
 Entidad Compra
     .- id_compra PK
@@ -27,5 +28,9 @@ Entidad Compra
     .- fecha_compra
 
 Relaciones entre las entidades:
-Gafa N:M Proveedor --> a través de suministro, una gafa puedeser suministrada por arios proveedores y viceversa.
-Gafa N:M Cliente --> a través de compra, una gafa puede ser comprada por varios clienes y viceversa.
+Gafa N:M Proveedor --> A través de la entidad Suministro, 
+                    Una gafa puedeser suministrada por arios proveedores.
+                    Un proveedor puede suministrar varias gafas.
+Gafa N:M Cliente --> A través de la entidad Compra, 
+                    Una gafa puede ser comprada por varios clienes.
+                    Un cliente puede comprar varias gafas.

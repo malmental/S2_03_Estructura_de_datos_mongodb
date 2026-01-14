@@ -23,5 +23,5 @@ Entidad Gafas:
     .- precio
 
 Relaciones entre las entidades: 
-Cliente 1:N Compra --> puede tener multiples compras
-Compra 1:N Gafa --> una compra puede tener varias gafas
+Cliente 1:N Compra -->Un cliente puede tener multiples compras
+Compra 1:N Gafa --> Una compra puede tener varias gafas
