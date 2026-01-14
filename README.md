@@ -1,7 +1,8 @@
 # Sprint 2
-  **Descripción**: 
+  **Descripción**: Repositorio creado para el diseño de la tasca 03 
   
-  Repositorio creado para el diseño de la tasca 03 
+  Para la visualizacion en GitHub web:
+    Selecionar 'Code' ya que las tablas fueron construidas con ASCII
   
   ## 🛠 Tecnologias  
   - *.md
