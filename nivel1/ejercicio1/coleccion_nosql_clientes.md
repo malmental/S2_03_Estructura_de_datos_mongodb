@@ -21,6 +21,16 @@ Diseño de formato JSON NoSQL para MongoDB
                     color_cristal_der: "",
                     tipo_montura: "Metallic",
                     precio: 127.0
+                },
+                {
+                    id_grafa : "gafa_002",
+                    tipo_modelo: "Carrera",
+                    graduacion_izq: 0.1,
+                    graduacion_der: 1.0,
+                    color_cristal_izq: "",
+                    color_cristal_der: "",
+                    tipo_montura: "Paste",
+                    precio: 213.0
                 }
             ]
         }
