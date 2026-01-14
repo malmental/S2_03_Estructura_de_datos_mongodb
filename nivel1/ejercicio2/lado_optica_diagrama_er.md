@@ -4,6 +4,7 @@
 │ id_proveedor (PK) │
 │ nombre            │
 │ direccion         │
+│... otros datos    │
 └───────────────────┘
           │ 1
           │ N
@@ -42,5 +43,5 @@
 ├───────────────────┤
 │ id_cliente (PK)   │
 │ nombre            │
-│ ...datos          │
+│ ...otros datos    │
 └───────────────────┘
